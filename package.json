@@ -1,0 +1,19 @@
+{
+  "name": "lyu",
+  "version": "1.0.0",
+  "description": "A toy Vue-like reactive system for JavaScript.",
+  "main": "js/index.js",
+  "scripts": {
+    "test": "npx tsc && node js/index.js"
+  },
+  "keywords": [
+    "reactive"
+  ],
+  "author": "Justin Liu",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  },
+  "resolveJsonModule": true
+}
